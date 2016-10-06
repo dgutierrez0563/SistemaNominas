@@ -1,0 +1,75 @@
+c:\users\wsulivan\documents\visual studio 2015\Projects\GUI_Nomimas\GUI_Nomimas\bin\Debug\GUI_Nomimas.exe.config
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas\GUI_Nomimas\bin\Debug\GUI_Nomimas.exe
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas\GUI_Nomimas\bin\Debug\GUI_Nomimas.pdb
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas\GUI_Nomimas\obj\Debug\GUI_Nomimas.csprojResolveAssemblyReference.cache
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas\GUI_Nomimas\obj\Debug\GUI_Nomimas.Form1_Login.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas\GUI_Nomimas\obj\Debug\GUI_Nomimas.Properties.Resources.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas\GUI_Nomimas\obj\Debug\GUI_Nomimas.csproj.GenerateResource.Cache
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas\GUI_Nomimas\obj\Debug\GUI_Nomimas.exe
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas\GUI_Nomimas\obj\Debug\GUI_Nomimas.pdb
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas\GUI_Nomimas\obj\Debug\GUI_Nomimas.Form2_GestionPrincipal.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas\GUI_Nomimas\obj\Debug\GUI_Nomimas.MDI_Principal.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas\GUI_Nomimas\obj\Debug\GUI_Nomimas.GestionPuestos.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas\GUI_Nomimas\obj\Debug\GUI_Nomimas.GestionDepartamentos.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas\GUI_Nomimas\obj\Debug\GUI_Nomimas.GestionUsuarios.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas\GUI_Nomimas\obj\Debug\GUI_Nomimas.GestionEmpleados.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\bin\Debug\GUI_Nomimas.exe.config
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\obj\Debug\GUI_Nomimas.exe
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\obj\Debug\GUI_Nomimas.pdb
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\obj\Debug\GUI_Nomimas.csprojResolveAssemblyReference.cache
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\obj\Debug\GUI_Nomimas.Form1_Login.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\obj\Debug\GUI_Nomimas.Form2_GestionPrincipal.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\obj\Debug\GUI_Nomimas.GestionDepartamentos.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\obj\Debug\GUI_Nomimas.GestionEmpleados.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\obj\Debug\GUI_Nomimas.GestionPuestos.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\obj\Debug\GUI_Nomimas.GestionUsuarios.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\obj\Debug\GUI_Nomimas.MDI_Principal.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\obj\Debug\GUI_Nomimas.Properties.Resources.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\obj\Debug\GUI_Nomimas.ReporteUsuarios.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\obj\Debug\GUI_Nomimas.csproj.GenerateResource.Cache
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\bin\Debug\GUI_Nomimas.exe
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\bin\Debug\GUI_Nomimas.pdb
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\obj\Debug\RdlCompile.cache
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - copia (3)\GUI_Nomimas\obj\Debug\RdlCompile.compiled
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\bin\Debug\GUI_Nomimas.exe.config
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\obj\Debug\GUI_Nomimas.exe
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\obj\Debug\GUI_Nomimas.pdb
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\bin\Debug\GUI_Nomimas.exe
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\bin\Debug\GUI_Nomimas.pdb
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\obj\Debug\GUI_Nomimas.csprojResolveAssemblyReference.cache
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\obj\Debug\GUI_Nomimas.Form1_Login.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\obj\Debug\GUI_Nomimas.GestionDepartamentos.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\obj\Debug\GUI_Nomimas.GestionEmpleados.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\obj\Debug\GUI_Nomimas.GestionPuestos.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\obj\Debug\GUI_Nomimas.GestionUsuarios.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\obj\Debug\GUI_Nomimas.MDI_Principal.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\obj\Debug\GUI_Nomimas.Properties.Resources.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\obj\Debug\GUI_Nomimas.ReporteUsuarios.resources
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\obj\Debug\GUI_Nomimas.csproj.GenerateResource.Cache
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\obj\Debug\RdlCompile.cache
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\obj\Debug\RdlCompile.compiled
+C:\Users\wsulivan\Documents\Visual Studio 2015\Projects\GUI_Nomimas - v4\GUI_Nomimas\obj\Debug\GUI_Nomimas.Reportes.ReporteVistaDepartamento.resources
